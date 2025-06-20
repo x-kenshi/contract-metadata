@@ -54,10 +54,10 @@ Criteria:
 
 A sample submission:
 
-```json
+```"contract-map.json"
 {
   "eip:155/erc20:0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
-    "name": "ENS Registrar",
+    "name": "dannieb.eth",
     "decimals": 18,
     "symbol": "ENS",
     "erc20": true,
